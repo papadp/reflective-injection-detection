@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reflective-injection-detection", "reflective-injection-detection\reflective-injection-detection.vcxproj", "{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|ARM = Release|ARM
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Debug|ARM.ActiveCfg = Debug|ARM
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Debug|ARM.Build.0 = Debug|ARM
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Debug|Win32.Build.0 = Debug|Win32
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Debug|x64.ActiveCfg = Debug|x64
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Debug|x64.Build.0 = Debug|x64
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Release|ARM.ActiveCfg = Release|ARM
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Release|ARM.Build.0 = Release|ARM
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Release|Win32.ActiveCfg = Release|Win32
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Release|Win32.Build.0 = Release|Win32
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Release|x64.ActiveCfg = Release|x64
+		{13CCCDDD-A4CF-4545-B7A6-C4E272C34F51}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
